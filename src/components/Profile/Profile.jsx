@@ -12,7 +12,7 @@ const Profile = () => {
           alt=""
         />
       </div>
-      <div>ava+description</div>
+      <div className="my-4 md:my-8">ava+description</div>
       <MyPosts />
     </div>
   );
